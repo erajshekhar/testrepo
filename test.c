@@ -8,5 +8,7 @@ main() {
   printf ("Hello Raj: Test %d\n", i);
   printf ("Hello Raj: Test %d\n", i);
   printf ("Hello Raj: Test %d\n", i);
+
+  printf ("End of program\n");
   return 0;
 }
